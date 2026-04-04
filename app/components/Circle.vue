@@ -70,7 +70,7 @@
   height: 300px;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background-image: url('test2q.png');
+  background-image: url('/test2q.png');
   background-size: cover;
   background-position: center 10%;
   background-repeat: no-repeat;

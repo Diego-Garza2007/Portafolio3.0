@@ -153,16 +153,16 @@ const history = [
   {
     year: '2020',
     name: 'The Upgrade',
-    img: '/setups/setup-2024.jpg',
+    img: '/2020setup.jpeg',
     description: 'Mi salto de 30 fps en minecraft a 120fps de las cosas mas bellas de mi vida',
-    tags: ['Dual Monitor', 'Mechanical KB', 'RGB']
+    tags: ['All in one', 'NVIDIA MX 130', 'Stolen chair']
   },
   {
     year: '2015',
     name: 'The Beginning',
-    img: '/setups/setup-2023.jpg',
-    description: 'Inicie con un intel pentium con 4gb de RAM que bueno tiempos.',
-    tags: ['All in one PC', 'Budget', 'First Setup']
+    img: '2016setup.png',
+    description: 'Inicie con un intel pentium con 4gb de RAM que buenos tiempos.',
+    tags: ['All in one PC', 'Intel Pentium', 'Grandma chair']
   },
 ]
 

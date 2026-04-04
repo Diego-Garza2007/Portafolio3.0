@@ -268,5 +268,5 @@ function openLink(url) {
 
 
 <style scoped lang="scss">
-@import '../assets/styles/projects.scss';
+@use '../assets/styles/projects.scss';
 </style>
